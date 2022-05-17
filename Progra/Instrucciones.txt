@@ -1,0 +1,14 @@
+1. En el lenguaje de programación de tu preferencia, resuelve uno de los siguientes problemas: 
+	a) Recibir un input del usuario. Este debe ser un número, que describe la posición en la serie Fibonacci de ese número. (En la serie Fibonacci, las posiciones 
+	1 y 0 valen 1, y cada posición después es igual a la suma de las dos posiciones anteriores.)
+	b) Recibir un input del usuario. Este input será un número, del cual se calculará e imprimirá el factorial. (El factorial es el resultado de multiplicar todos 
+	los números mayores o iguales a 1 y menores o iguales al número cuyo factorial se está calculando.)
+En ambos casos, se debe imprimir el resultado en consola.
+
+2. Guarda en un archivo el código que utilizaste para resolver el problema y adjúntalo en la carpeta "Progra".
+
+3. Escribe al final de este documento el lenguaje de programación que utilizaste para resolver estos problemas.
+
+4. Si aún no lo has hecho, ve a la carpeta "SQL" y sigue las instrucciones que encontrarás en "Instrucciones.txt".
+
+5. Si ya has seguido las instrucciones, comprime la carpeta "Entrevistas" y envíala.

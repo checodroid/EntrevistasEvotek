@@ -1,0 +1,22 @@
+1. Instala la base de datos contenida en "db.sql".
+
+2. De la base de datos, obtén lo siguiente:
+	a) Listado de libros, ordenados por fecha de publicación, empezando por los más recientes
+	b) Listado de préstamos, con nombre y apellidos del usuario, título del libro, autor del libro, y fecha del préstamo
+
+3. Guarda las consultas que hayas utilizado en un archivo con la extensión ".sql" (puedes hacer esto desde un gestor de base de datos o desde bloc de notas, entre 
+otras), y guárdalo en la carpeta "SQL".
+
+4. Usando algún stack de desarrollo (preferentemente xampp o lampp), crea una página web que permita visualizar la y operar la tabla "ind_pokemon". Las operaciones a 
+realizar son las siguientes:
+	a) Ver el detalle de los datos de un renglón
+	b) Crear un nuevo renglón
+	c) Actualizar un renglón ya existente
+	d) Eliminar un renglón, después de pedir confirmación por parte del usuario
+Para este punto, puedes utilizar cualquier librería.
+
+5. Incluye los contenidos de tu página (librerías, imágenes, archivos, etc.) y las consultas
+
+6. Si aún no lo has hecho, ve a la carpeta "Progra" y sigue las instrucciones que encontrarás en "Instrucciones.txt".
+
+7. Si ya has terminado todas las instrucciones, comprime la carpeta "Entrevistas" y envíala.
